@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Artigence-Healthcare/static/css/main.c8568309.css",
+    "main.js": "/Artigence-Healthcare/static/js/main.457125bc.js",
+    "static/js/453.cac8e5fe.chunk.js": "/Artigence-Healthcare/static/js/453.cac8e5fe.chunk.js",
+    "index.html": "/Artigence-Healthcare/index.html",
+    "main.c8568309.css.map": "/Artigence-Healthcare/static/css/main.c8568309.css.map",
+    "main.457125bc.js.map": "/Artigence-Healthcare/static/js/main.457125bc.js.map",
+    "453.cac8e5fe.chunk.js.map": "/Artigence-Healthcare/static/js/453.cac8e5fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8568309.css",
+    "static/js/main.457125bc.js"
+  ]
+}
